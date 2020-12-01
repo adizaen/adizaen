@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 [![Visits Badge](https://badges.pufler.dev/visits/adizaen/adizaen)](https://badges.pufler.dev)
 
 ### 🔭 I’m currently workking as :
-Students at Amikom Yogyakarta University
+Students at University of AMIKOM Yogyakarta
 
 ### 🌱 I’m currently learning :
 - Database Management System
