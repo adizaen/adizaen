@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **adizaen/adizaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+Here are some ideas to get you started : :octocat:
 
 [![Repos Badge](https://badges.pufler.dev/repos/adizaen)](https://github.com/adizaen?tab=repositories)
 [![Visits Badge](https://badges.pufler.dev/visits/adizaen/adizaen)](https://badges.pufler.dev)
