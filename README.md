@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 [![Repos Badge](https://badges.pufler.dev/repos/adizaen)](https://github.com/adizaen?tab=repositories)
 [![Visits Badge](https://badges.pufler.dev/visits/adizaen/adizaen)](https://badges.pufler.dev)
 
+![Image of Megacat](https://octodex.github.com/megacat-2/)
+
 ### 🔭 I’m currently workking as :
 Students at University of AMIKOM Yogyakarta
 
