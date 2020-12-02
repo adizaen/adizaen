@@ -32,3 +32,13 @@ Students at University of AMIKOM Yogyakarta
 - [Summary App](https://github.com/adizaen/SummaryApp)
 - [Aplikasi Pembukuan](https://github.com/adizaen/AplikasiPembukuan)
 - [Sistem Informasi Peendaftaran](https://github.com/adizaen/Sistem_Informasi_Pendaftaran)
+
+<!-- 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adizaen&show_icons=true&include_all_commits=true&theme=react" alt="Adi Zaenul's github stats" />
+</a>
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adizaen&layout=compact&theme=react" />
+</a>
