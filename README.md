@@ -31,7 +31,7 @@ Students at University of AMIKOM Yogyakarta
 - [Smart Library](https://github.com/adizaen/SmartLibrary)
 - [Summary App](https://github.com/adizaen/SummaryApp)
 - [Aplikasi Pembukuan](https://github.com/adizaen/AplikasiPembukuan)
-- [Sistem Informasi Peendaftaran](https://github.com/adizaen/Sistem_Informasi_Pendaftaran)
+- [Sistem Informasi Pendaftaran](https://github.com/adizaen/Sistem_Informasi_Pendaftaran)
 
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
